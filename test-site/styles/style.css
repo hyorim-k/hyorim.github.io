@@ -1,0 +1,31 @@
+
+html {
+    background-color: azure;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f0ecff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #715ae6;
+    text-shadow: 3px 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1;
+}
+
+img {
+    display:  block;
+    margin: 0 auto;
+}
